@@ -257,4 +257,4 @@ async def handler(message: Message):
 
 # ---------------- RUN ----------------
 
-bot.run_forever()
+bot.run()
